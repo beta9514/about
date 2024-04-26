@@ -1,3 +1,3 @@
-#about  
+# about  
 
 いろんなページのaboutの部分。  
