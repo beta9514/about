@@ -39,7 +39,7 @@ mersmn621のインスタンスをベースに開発中。
 
 
 管理者連絡先
-※ご要望やバグの指摘などはお題箱、もしくはメールまでお願いします。
+※インスタンスのご要望やバグの指摘などはリクエストフォームにお願いします。
 ✉ beta951419@gmail.com
 Github https://github.com/beta9514
 お題箱 https://odaibako.net/u/beta95
